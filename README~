@@ -1,8 +1,0 @@
-Note for usage:
-
-run server:
-$ python manage.py runserver
-
-call api to run:
-$ curl http://localhost:8000/api/emailcalc/<full_file_path_name>
-ex: $ curl http://localhost:8000/api/emailcalc//home/username/email_list.txt
